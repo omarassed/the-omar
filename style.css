@@ -1,0 +1,9 @@
+body {
+    background: lightgreen;
+    color: skyblue;
+  }
+p {
+    color: aqua;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
